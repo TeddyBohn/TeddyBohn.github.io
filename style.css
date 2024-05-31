@@ -1,11 +1,8 @@
-body{
-    background-color:tan;
-    color:white;
+body {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
 }
-.players
-{
-    color:red;
-    
+
 }
 #board {
     /* background-color: skyblue; */
