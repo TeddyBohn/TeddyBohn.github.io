@@ -7,3 +7,7 @@ body{
     color:red;
     
 }
+#board {
+    /* background-color: skyblue; */
+    background-image: url("./flappybirdbg.png");
+}
